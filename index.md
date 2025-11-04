@@ -7,7 +7,7 @@ Using data from the WW Airport weather station, we will create a radial bar grap
 1. Build visualization.
 
 ### Image example
-![Malaria image](malaria image.jpg)
+![Malaria image](malaria.jpg)
 
 
 
