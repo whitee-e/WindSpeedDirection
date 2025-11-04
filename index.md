@@ -6,6 +6,9 @@ Using data from the WW Airport weather station, we will create a radial bar grap
 1. Import into [Colab worksheet](https://colab.research.google.com/drive/11yl4TzDl3MN-dlVS09SljJnpflDeRrhQ).
 1. Build visualization.
 
+### Image example
+![Malaria image](malaria image.jpg)
+
 
 
 
